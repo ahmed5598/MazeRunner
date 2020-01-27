@@ -7,3 +7,4 @@ Use space to fire, you start with 6 bullets and each gift contains 2 extra bulle
 Small bombs take 20% of your health while big bombs take 50% of it.
 Heart squares increase your health by 30%.
 Armour squares adds an armour to the character, when you stand on a bomb it doesn't affect your health but the armour is removed.
+![image](https://user-images.githubusercontent.com/59181458/73149760-c999f580-4090-11ea-803f-8bea45de3ddf.png)
